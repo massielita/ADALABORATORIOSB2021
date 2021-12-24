@@ -1,0 +1,6 @@
+/**
+* Se tiene un rectangulo de medidas a y b, el cual se desea cortar en cuadrados
+* Se sabe que al movernos podemos cortar una sola vez 
+* Al momento de cortar se los pedazos todos los otros lados quedan sin que se pierda sus tamaños
+* Se nos pide hallar el numero minimo de movimientos para cortar todo el rectangulo
+**/
