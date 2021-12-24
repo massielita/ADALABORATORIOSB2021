@@ -1,0 +1,6 @@
+/**
+* Este problema nos da una situacion donde tue eres un cliente de la tienda de libros 
+* Tu conoces el precio y numero de paginas de cada libro 
+* Solo puedes gastar a lo mucho x soles
+* Ademas solo se permite comprar un libro de cada tipo
+**/
