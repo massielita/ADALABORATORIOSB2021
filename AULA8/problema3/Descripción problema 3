@@ -1,0 +1,5 @@
+/**
+* Dados un arreglo de numeros enteros se regresa el numero de consecuentes de los respectivos arreglos
+* Un consecuente viene a ser una secuencia derivada de un arreglo al eliminar o no elementos sin alterar el orden de los mismos
+* Se pide implementar un algoritmo que devuelva la cantidad maxima de subsecuentes dado un arreglo determinado
+**/
