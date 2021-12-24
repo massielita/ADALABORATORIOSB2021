@@ -1,0 +1,4 @@
+/**
+* En una matriz binaria de tamaño mxn llenada con ceros y unos
+* Debemos encontrar el cuadrado mas grande que contenga solo unos y que me retorne su area
+**/
