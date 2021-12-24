@@ -1,0 +1,4 @@
+/**
+* Un disleccionario es muy similar un diccionario con la diferencia que en este las palabras estan ordenadas tomando en cuenta la ultima letra
+* Aqui se intenta implementar un algoritmo que me permita hallar el disleccionario de las palabras que ingrese
+**/
