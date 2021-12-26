@@ -1,0 +1,10 @@
+/**
+* Hay n ciudades y m conexiones de vuelos entre ellos
+* Se pide determinar el tamaño de la ruta mas corta de Syrjälä a todas las ciudades
+* La ciudad Syrjälä es la ciudad 1
+* El programa recibira 2 enteros n y m que seran el numero de ciudades y las conexiones de vuelos
+* Las m lineas siguientes recibiran 3 valores enteros: a, b y c 
+* Todos los vuelos empiezan en la ciudad a y terminan en b, el tamaño de estas viene a ser c
+* Se asume que es posible viajar de Syrjälä a todas las demas ciudades
+* El programa debera imprimir las rutas mas cortas de la ciudad de Syrjälä a las n ciudades
+**/
