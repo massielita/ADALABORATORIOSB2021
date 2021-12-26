@@ -1,0 +1,6 @@
+/**
+* Se tienen regaderas que giran y rocian agua a cierta distancia
+* Cada regadera esta instalada de forma horizontal
+* Se nos pide hallar el numero minimo de regaderas a girar de cierta orden para que se riegue toda el area verde
+* Este problema es resuelto mediante el lenguaje de programacion C++
+**/
