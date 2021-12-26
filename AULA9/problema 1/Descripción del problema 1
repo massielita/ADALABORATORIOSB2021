@@ -1,0 +1,4 @@
+/**
+* En este problema se tiene que algunos segmentos no se llegan a encontrar y se les llama no solapados
+* Se nos pide implementar un algoritmo que reciba dos arreglos de tipo entero y que me regrese el tamaño de una arreglo que contenga el numero maximos de segmentos no solapados
+**/
