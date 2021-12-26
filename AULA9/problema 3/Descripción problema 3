@@ -1,0 +1,5 @@
+ /** 
+ * El problema 3 trata sobre la cola de un banco 
+ * Para el desarrollo de este problema toda la clase en la que se desarrolla es llamada clase persona
+ * Esto indica que en esta ocasion el nombre de la clase sera Person y no el del problema como en ejercicios anteriores
+ **/
