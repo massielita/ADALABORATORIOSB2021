@@ -1,0 +1,10 @@
+/**
+* Se quiere un programa que me permita visitar el numero maximo de ciudades, sabiendo que no existen vuelos directos
+* Se debera ir de Syrjälä a Lehmälä
+* Se pediran dos datos de entrada de tipo entero n y m que son el numero de ciudades y vuelos
+* Ciudad 1 es Syrjälä  y la ciudad n es Lehmälä
+* Las m lineas siguientes describen los vuelos siendo 2 datos enteros donde el vuelo es de la ciudad a a la ciudad b 
+* Cada vuelo es de ida, es decir de un solo sentido
+* Se debe imprimir el maximo numero de ciudades en la ruta y luego el orden en el que estas fueron visitadas
+* Si no hubieran solucion se imprimira imposible
+**/
