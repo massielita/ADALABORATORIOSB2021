@@ -1,0 +1,8 @@
+/**
+* Se tienen n ciudades y m caminos entre ellos
+* Se desea procesar q colas donde se determine el camino mas corto entre ellos
+* La primera linea recibe 3 enteros n,m y q 
+* Luego las m lineas siguientes describiran los caminos, cada tiene tendra 3 enteros a, b ciudades y c es el tamaño del camino entre ellas
+* Estos son caminos de doble sentido
+* Se debera imprimir como resultado el camino mas corto de cada cola, si no hubiera ruta se imprimira -1
+**/
