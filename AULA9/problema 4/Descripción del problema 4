@@ -1,0 +1,6 @@
+/**
+* En este problema nos dice que nos dan un numero determinado de problemas en el que participa un pickeman
+* Para cada uno de los problemas se tiene un determinado tiempo
+* Se nos pide hallar el maximo valor de problemas que el pickeman pueda resolver asi como las penalidades minimas que se puedan obtener suponiendo que sus respuestas estan correctas
+* Este problema fue desarrollado en C++
+**/
