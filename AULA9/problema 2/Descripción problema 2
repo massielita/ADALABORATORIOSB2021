@@ -1,0 +1,6 @@
+/**
+* Se tiene diferentes cuerdas y si hubieran juntas estas se pueden atar y el tamaño de la nueva cuerda vendria a ser la suma de ambas cuerdas
+* Se pide implementar una funcin que dado un array de numeros enteros y un numero K nos den el un numero maximos de cuerdas 
+* Estas deberan ser  mayores o iguales al numero K
+* Se tuvieron problemas con el acceso a app.codicility y no se llego a probar el ejercicio en la pagina
+**/
