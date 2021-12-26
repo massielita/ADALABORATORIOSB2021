@@ -1,0 +1,6 @@
+/**
+* Se tienen n ciudades y m caminos entre ellos cuyos caminos estan dañados se nos pide reparar algunos de los caminos y asegurarnos que el costo de repacion de estos sea el minimo posible
+* Sabiendo que todos los caminos son entre dos ciudades y que solo existe un camino entre 2 ciudades
+* Se recibiran como datos de entrada en la primera linea 2 datos de tipo entero que representan el numero de ciudades y el numero de caminos
+* Las demas lineas recibiran 3 enteros cada una, los dos primeros enteros vienen a ser las ciudades a y b y el tercero c el costo entre las dos ciudades anteriores
+**/
