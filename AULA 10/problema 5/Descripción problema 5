@@ -1,0 +1,10 @@
+/**
+* Se quiere encontrar el vuelo mas barato de Syrjälä a Metsälä
+* Sabiendo que se tiene un cupon de descuento y que puede ayudar a solventar el gasto de cualquier vuelo durante una hora pero solo se puede usar una vez
+* De entrada recibira 2 enteros n y m, el numero de ciudades y las conexiones de los vuelos
+* Donde la ciudad 1 es Syrjälä y la ciudad n es Metsälä
+* Las siguientes m lineas recibiran 3 valores enteros, siendo a  la ciudad de donde se sale y b la ciudad a la que se llega mientras que c el precio entre ambas ciudades
+* Todos los vuelos son sin retorno
+* Se debera asumir que siempre es posible ir de Syrjälä a Metsälä
+* Al usar el cupon de descuento el precio original x pasa a ser x/2( se redondea si es necesario)
+**/
